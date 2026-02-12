@@ -1,7 +1,5 @@
 # Loan Approval Prediction
 
-Project for CS F415 Data Mining
-
 ## Problem Statement & Data Set
 
 Suppose a Finance Company offers home loans.
